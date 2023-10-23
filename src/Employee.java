@@ -9,5 +9,8 @@ class Emp
 	{
 		System.out.println("Emp Class.");
 	}
-	
+	public int getSalary()
+	{
+		return salary;
+	}
 }
