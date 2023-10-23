@@ -1,5 +1,6 @@
 class MyCalc
 {
+	// this class added for git test.
 	int add(int a, int b)
 	{
 		return a+b;
